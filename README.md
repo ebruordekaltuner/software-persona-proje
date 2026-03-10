@@ -16,4 +16,5 @@ Bu proje, Software Persona staj programı kapsamında **Vue.js** ve **Tailwind C
 * **SSL ve Erişim:** Alan adı değişikliği sonrası yaşanan geçici SSL sertifikası (ERR_SSL_PROTOCOL_ERROR) durumu nedeniyle, canlı uygulama şu an en sağlıklı şekilde **Opera tarayıcısı üzerinden VPN veya güvenlik duvarı istisnası** ile görüntülenebilmektedir. Projenin teknik altyapısı ve kod mimarisi eksiksizdir.
 
 ## 📸 Ekran Görüntüsü
-![Görev Paneli Arayüzü](https://github.com/ebruordekaltuner/software-persona-proje/blob/main/screenshot.png?raw=true)
+
+<img width="2545" height="807" alt="image" src="https://github.com/user-attachments/assets/a24503cd-27e8-49ea-8454-8add0b1abdc0" />
